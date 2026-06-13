@@ -283,8 +283,8 @@ Detailed project documentation is available under the `docs/` directory.
 
 Dataset sourced from Kaggle:
 
-**Dataset Link:**  
-<PASTE_KAGGLE_DATASET_LINK_HERE>
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Zomato%20Database-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/anas123siddiqui/zomato-database)
+
 
 ---
 
