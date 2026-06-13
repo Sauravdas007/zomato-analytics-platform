@@ -1,4 +1,24 @@
 # 🍽️ Zomato Analytics Platform on Azure Synapse
+## 📊 Live Power BI Dashboard
+
+Explore the interactive Zomato Analytics Dashboard hosted on Microsoft Fabric:
+
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-FABRIC-orange?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/links/uUStzvO1i4?ctid=841e991f-1730-433f-82ba-ea7895004ffa&pbi_source=linkShare)
+
+---
+
+⚠️ If the link does not open, you can download the `.pbix` file directly here:  
+[![Download PBIX](https://img.shields.io/badge/Download-PBIX-blue?style=for-the-badge&logo=microsoft&logoColor=white)](powerbi/Zomato_Analytics.pbix)
+
+---
+
+# 👨‍💻 Author
+
+**Saurav Das**  
+_Data Engineering • Analytics Engineering • Cloud Analytics_
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sauravdas007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-das-894046267)
 
 ![Tech Flow](docs/images/Tech-Stack.png)
 
@@ -270,13 +290,3 @@ Dataset sourced from Kaggle:
 - Designed scalable cloud-native data pipelines using Azure Data Lake Storage Gen2.
 
 ---
-
-# 👨‍💻 Author
-
-**Saurav Das**
-
-Data Engineering • Analytics Engineering • Cloud Analytics
-
-**GitHub:** https://github.com/your-username
-
-**LinkedIn:** https://linkedin.com/in/your-profile
