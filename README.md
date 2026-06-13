@@ -204,7 +204,17 @@ How can leadership obtain a unified view of platform performance?
 
 # 📈 Dashboard Preview
 
-![Dashboard Overview](docs/images/dashboard-overview.png)
+## 📸 Dashboard Pages
+
+| Dashboard Overview | Revenue Intelligence | Customer Intelligence |
+|--------------------|----------------------|-----------------------|
+| ![Dashboard Overview](docs/images/Dashboard-overview.png) | ![Revenue Intelligence](docs/images/Revenue-page.png) | ![Customer Intelligence](docs/images/customer-page.png) |
+
+| Restaurant Intelligence | Forecasting Analytics |
+|-------------------------|-----------------------|
+| ![Restaurant Intelligence](docs/images/restaurant-page.png) | ![Forecasting Analytics](docs/images/forcasting-page.png) |
+
+
 
 ### Dashboard Features
 
