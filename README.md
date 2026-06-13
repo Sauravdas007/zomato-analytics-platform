@@ -45,7 +45,7 @@ This project demonstrates how a modern cloud analytics platform can transform ra
 
 # 🥇 Medallion Architecture
 
-![Medallion Architecture](docs/images/modeling-architecture.png)
+![Medallion Architecture](docs/images/Modeling-architecture.png)
 
 ### Bronze Layer
 
